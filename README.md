@@ -1,6 +1,6 @@
 # GitHub Demo Markdown File
 
-My second edit, on GitHub!
+My third edit!
 
 ## Headings
 ### H3 Heading
