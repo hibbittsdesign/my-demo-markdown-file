@@ -1,7 +1,5 @@
 # GitHub Demo Markdown File
 
-My third edit!
-
 ## Headings
 ### H3 Heading
 #### H4 Heading
